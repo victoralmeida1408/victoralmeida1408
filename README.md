@@ -26,3 +26,11 @@ Atualmente, estou aprendendo a construir aplicações web e estou em busca do me
 - Buscando novas oportunidades de estágio para aplicar e aprimorar minhas habilidades em desenvolvimento.
 
 Obrigado por visitar meu perfil! Vamos conectar!
+
+<div> 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,c,html,css,java,js,mysql,php,py,postgres,git" />
+  </a>
+</p>
+</div>
